@@ -11,7 +11,7 @@
 ### Hint: pushing changes to GitHub
 - Click on the Git button in VSCode  
 ![git-button](https://user-images.githubusercontent.com/20370225/132511360-8d934539-2eba-4714-b006-38a308c3caf9.png)
-- Prepare (=stage) any changes you want to commit  
+- Prepare (=stage) any changes you want to commit with the + button next to the file name  
 ![change](https://user-images.githubusercontent.com/20370225/132511457-cb0b0f6e-4f73-41c4-8fca-d9eebed764b7.png)
 - Add a commit message  
 ![image](https://user-images.githubusercontent.com/20370225/132511610-d753a5a9-9085-4807-9214-7ece0bee8633.png)
