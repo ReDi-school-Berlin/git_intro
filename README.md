@@ -2,9 +2,7 @@
 ### Introduction to Git and Assignments
 
 ### What you need to do
-1. Download (clone) this repository to your computer by clicking on Code, copying the URL from there and then putting the following command in VSCode terminal:  
-`git clone {url_you_copied}`
-![image](https://user-images.githubusercontent.com/20370225/132522688-a75884f6-490b-4670-9117-6b72b506eed6.png)
+1. Download (clone) this repository to your computer by clicking on Code, copying the URL from there and then putting the following command in VSCode terminal: `git clone {url_you_copied}`
 3. Open it in VSCode
 4. Open the `my_first_assignment.py` file
 5. Edit the file (instructions are directly in the file)
